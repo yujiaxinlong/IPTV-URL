@@ -9,7 +9,7 @@ http://192.168.31.190:6688/ysptp/cctv3.m3u8
 http://192.168.31.190:6688/ysptp/cctv4.m3u8
 #EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视",cctv5
 http://192.168.31.190:6688/ysptp/cctv5.m3u8
-#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视",cctv5p
+#EXTINF:-1,tvg-id="cctv5p" tvg-name="cctv5p" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视",cctv5p
 http://192.168.31.190:6688/ysptp/cctv5p.m3u8
 #EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央视",cctv6
 http://192.168.31.190:6688/ysptp/cctv6.m3u8
